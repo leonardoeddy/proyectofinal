@@ -1,0 +1,7 @@
+<LinearLayout ... >
+    <Spinner android:id="@+id/spinnerType" />
+    <EditText android:id="@+id/editCategory" android:hint="Categoría" />
+    <EditText android:id="@+id/editAmount" android:hint="Monto" />
+    <EditText android:id="@+id/editDate" android:hint="Fecha (dd/mm/yyyy)" />
+    <Button android:id="@+id/btnSave" android:text="Guardar" />
+</LinearLayout>
